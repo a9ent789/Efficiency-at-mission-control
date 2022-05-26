@@ -1,0 +1,19 @@
+/*Tecumseh McMullin*/
+
+/*this is the style section for the 1st and biggest header*/
+h1 {
+    background-color: beige;
+}
+
+/*this is the style section for the body*/
+body {
+    text-align: center;
+
+    /*this sets the background image for the entire body*/
+    background-image: url(background.jpg);
+}
+
+/*this is the style section for the division that shows the countdown*/
+div {
+    background-color: white;
+}
